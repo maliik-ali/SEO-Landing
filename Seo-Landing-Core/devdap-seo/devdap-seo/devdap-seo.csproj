@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\img\svg\compass.svg" />
+    <None Include="wwwroot\img\svg\dollar-bag.svg" />
+    <None Include="wwwroot\img\svg\paper-key.svg" />
+    <None Include="wwwroot\img\svg\phone-book.svg" />
+    <None Include="wwwroot\img\svg\pie-chart.svg" />
+    <None Include="wwwroot\img\svg\pie-shart-up.svg" />
+    <None Include="wwwroot\img\svg\plane-up.svg" />
+    <None Include="wwwroot\img\svg\protractor.svg" />
+    <None Include="wwwroot\img\svg\quote.svg" />
+    <None Include="wwwroot\img\svg\search.svg" />
+    <None Include="wwwroot\img\svg\seo.svg" />
+    <None Include="wwwroot\img\svg\traffic-lights.svg" />
+    <None Include="wwwroot\img\svg\web-mail.svg" />
+  </ItemGroup>
+
+</Project>

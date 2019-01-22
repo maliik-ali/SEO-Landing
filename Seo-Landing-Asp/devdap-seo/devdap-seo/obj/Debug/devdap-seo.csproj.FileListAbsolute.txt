@@ -1,0 +1,142 @@
+D:\NET MVC\devdap-seo\devdap-seo\bin\devdap-seo.dll.config
+D:\NET MVC\devdap-seo\devdap-seo\bin\devdap-seo.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\devdap-seo.pdb
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csc.exe
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csc.exe.config
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csc.rsp
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csi.exe
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csi.exe.config
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csi.rsp
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.AppContext.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Collections.Immutable.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Console.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Diagnostics.Process.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.IO.Compression.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.IO.FileSystem.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.IO.Pipes.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Reflection.Metadata.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.AccessControl.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Claims.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Threading.Thread.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.ValueTuple.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Xml.XPath.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\vbc.exe
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\vbc.exe.config
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\vbc.rsp
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\VBCSCompiler.exe
+D:\NET MVC\devdap-seo\devdap-seo\bin\roslyn\VBCSCompiler.exe.config
+D:\NET MVC\devdap-seo\devdap-seo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\Microsoft.Web.Infrastructure.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Helpers.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Mvc.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Razor.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.Deployment.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.Razor.dll
+D:\NET MVC\devdap-seo\devdap-seo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Razor.xml
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.xml
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.Deployment.xml
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.Razor.xml
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Helpers.xml
+D:\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Mvc.xml
+D:\NET MVC\devdap-seo\devdap-seo\obj\Debug\devdap-seo.csprojResolveAssemblyReference.cache
+D:\NET MVC\devdap-seo\devdap-seo\obj\Debug\devdap-seo.csproj.CoreCompileInputs.cache
+D:\NET MVC\devdap-seo\devdap-seo\obj\Debug\devdap-seo.csproj.CopyComplete
+D:\NET MVC\devdap-seo\devdap-seo\obj\Debug\devdap-seo.dll
+D:\NET MVC\devdap-seo\devdap-seo\obj\Debug\devdap-seo.pdb
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\devdap-seo.dll.config
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\devdap-seo.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\devdap-seo.pdb
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csc.exe
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csc.exe.config
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csc.rsp
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csi.exe
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csi.exe.config
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\csi.rsp
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.AppContext.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Collections.Immutable.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Console.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Diagnostics.Process.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.IO.Compression.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.IO.FileSystem.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.IO.Pipes.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.AccessControl.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Claims.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Threading.Thread.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.ValueTuple.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Xml.XPath.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\vbc.exe
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\vbc.exe.config
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\vbc.rsp
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\VBCSCompiler.exe
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\roslyn\VBCSCompiler.exe.config
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\Microsoft.Web.Infrastructure.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Helpers.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Mvc.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Razor.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.Deployment.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.Razor.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Razor.xml
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.xml
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.Deployment.xml
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Webpages.Razor.xml
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Helpers.xml
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\bin\System.Web.Mvc.xml
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\obj\Debug\devdap-seo.csprojResolveAssemblyReference.cache
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\obj\Debug\devdap-seo.csproj.CoreCompileInputs.cache
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\obj\Debug\devdap-seo.csproj.CopyComplete
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\obj\Debug\devdap-seo.dll
+D:\Final Themes\NET MVC\devdap-seo\devdap-seo\obj\Debug\devdap-seo.pdb
